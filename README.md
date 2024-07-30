@@ -1,0 +1,2 @@
+# academico
+Minhas coisas acadêmicas
